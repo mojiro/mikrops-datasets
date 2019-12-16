@@ -1,0 +1,37 @@
+[{
+  "model": "app_job.jobtask",
+  "pk": "712d5cfb-9f68-4856-914b-2e64640573ec",
+  "fields": {
+    "created": "2019-08-24T22:25:40.195Z",
+    "updated": "2019-08-31T17:02:57.902Z",
+    "parent": "e988bf74-5e14-42ae-9451-b3d81846a6cf",
+    "name": "Gather facts",
+    "order": 2,
+    "action": "f663ae48-5a17-416b-bd50-3916e72fd2a5",
+    "register": "psql_ssh_gatherfacts",
+    "when": "icmp_ping.unreachable == False and (psql_ssh_gatherfacts.failed is not defined or psql_ssh_gatherfacts.failed == True)",
+    "ignore_errors": true,
+    "ignore_unreachable": true,
+    "options_other": "",
+    "loop": true,
+    "search": "gather facts"
+  }
+}, {
+  "model": "app_job.jobtask",
+  "pk": "a2f0a616-85aa-415f-bc3b-9151e1cf7239",
+  "fields": {
+    "created": "2019-08-24T22:25:30.767Z",
+    "updated": "2019-08-31T17:02:57.894Z",
+    "parent": "e988bf74-5e14-42ae-9451-b3d81846a6cf",
+    "name": "Ping",
+    "order": 1,
+    "action": "a1666bcc-894f-4132-b6d3-e180883d2098",
+    "register": "icmp_ping",
+    "when": null,
+    "ignore_errors": true,
+    "ignore_unreachable": true,
+    "options_other": "",
+    "loop": false,
+    "search": "ping"
+  }
+}]

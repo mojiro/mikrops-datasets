@@ -1,0 +1,109 @@
+[{
+  "model": "app_job.jobaction",
+  "pk": "24476923-6715-4c08-82a3-f74d6160ad89",
+  "fields": {
+    "created": "2019-08-22T22:10:19.687Z",
+    "updated": "2019-08-22T22:10:19.690Z",
+    "name": "null",
+    "system": true,
+    "delegate_to_127": true,
+    "options_other": "",
+    "search": "null"
+  }
+}, {
+  "model": "app_job.jobaction",
+  "pk": "4213af21-c9a3-4ba5-9071-558b6476053d",
+  "fields": {
+    "created": "2019-08-19T23:08:35.643Z",
+    "updated": "2019-08-31T08:05:42.359Z",
+    "name": "mt_get",
+    "system": true,
+    "delegate_to_127": true,
+    "options_other": "",
+    "search": "mt_get"
+  }
+}, {
+  "model": "app_job.jobaction",
+  "pk": "65299b85-7d7e-4826-9233-a4e2053562eb",
+  "fields": {
+    "created": "2019-08-19T23:16:53.046Z",
+    "updated": "2019-08-31T08:05:24.904Z",
+    "name": "sftp_upload",
+    "system": true,
+    "delegate_to_127": true,
+    "options_other": "",
+    "search": "sftp_upload"
+  }
+}, {
+  "model": "app_job.jobaction",
+  "pk": "90fda0e7-db70-4fa3-9ce1-3e860afe2da9",
+  "fields": {
+    "created": "2019-08-19T23:14:19.394Z",
+    "updated": "2019-08-31T08:05:44.423Z",
+    "name": "mt_commands",
+    "system": true,
+    "delegate_to_127": true,
+    "options_other": "",
+    "search": "mt_commands"
+  }
+}, {
+  "model": "app_job.jobaction",
+  "pk": "991e8bb3-56b2-4a0f-85e6-67fe3fe49338",
+  "fields": {
+    "created": "2019-08-31T07:29:11.751Z",
+    "updated": "2019-08-31T08:05:39.226Z",
+    "name": "mt_get_csv",
+    "system": true,
+    "delegate_to_127": true,
+    "options_other": "",
+    "search": "mt_get_csv"
+  }
+}, {
+  "model": "app_job.jobaction",
+  "pk": "a1666bcc-894f-4132-b6d3-e180883d2098",
+  "fields": {
+    "created": "2019-08-17T09:48:39.912Z",
+    "updated": "2019-08-31T07:58:52.968Z",
+    "name": "icmp_ping",
+    "system": true,
+    "delegate_to_127": true,
+    "options_other": "",
+    "search": "icmp_ping"
+  }
+}, {
+  "model": "app_job.jobaction",
+  "pk": "b2fa41e6-6f2b-4a7e-8810-d4923a09c4ae",
+  "fields": {
+    "created": "2019-08-19T23:12:30.364Z",
+    "updated": "2019-08-31T08:05:36.802Z",
+    "name": "mt_set",
+    "system": true,
+    "delegate_to_127": true,
+    "options_other": "",
+    "search": "mt_set"
+  }
+}, {
+  "model": "app_job.jobaction",
+  "pk": "b5c2550b-1ff6-417c-9f7d-92865bdde94f",
+  "fields": {
+    "created": "2019-08-19T23:15:52.310Z",
+    "updated": "2019-08-31T08:05:28.429Z",
+    "name": "sftp_download",
+    "system": true,
+    "delegate_to_127": true,
+    "options_other": "",
+    "search": "sftp_download"
+  }
+}, {
+  "model": "app_job.jobaction",
+  "pk": "f663ae48-5a17-416b-bd50-3916e72fd2a5",
+  "fields": {
+    "created": "2019-08-17T09:51:03.090Z",
+    "updated": "2019-08-31T08:05:21.529Z",
+    "name": "psql_ssh_gatherfacts",
+    "system": true,
+    "delegate_to_127": true,
+    "options_other": "",
+    "search": "psql_ssh_gatherfacts"
+  }
+}]

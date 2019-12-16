@@ -1,0 +1,404 @@
+[{
+  "model": "app_device.vendor",
+  "pk": "73aa4037-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:36.685Z",
+    "name": "Unknown",
+    "short_name": "unknown",
+    "driver": null,
+    "type": 21,
+    "link": null,
+    "search": "unknown other"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa4a7a-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:20.654Z",
+    "name": "Apple",
+    "short_name": "apple",
+    "driver": null,
+    "type": 3,
+    "link": "https://www.apple.com",
+    "search": "apple iphone https://www.apple.com"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa4c06-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:20.660Z",
+    "name": "Samsung",
+    "short_name": "samsung",
+    "driver": null,
+    "type": 4,
+    "link": "https://www.samsung.com",
+    "search": "samsung android https://www.samsung.com"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa4cec-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-08-21T22:55:53.722Z",
+    "name": "Abit",
+    "short_name": "abit",
+    "driver": null,
+    "type": 5,
+    "link": null,
+    "search": "abit pc"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa4dc6-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:20.666Z",
+    "name": "Elite Group",
+    "short_name": "elitegroup",
+    "driver": null,
+    "type": 5,
+    "link": "https://www.ecs.com.tw",
+    "search": "elite group elitegroup pc https://www.ecs.com.tw"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa4f17-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:20.669Z",
+    "name": "Asrock",
+    "short_name": "asrock",
+    "driver": null,
+    "type": 5,
+    "link": "https://www.asrock.com",
+    "search": "asrock pc https://www.asrock.com"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa4fe8-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:20.675Z",
+    "name": "Asus",
+    "short_name": "asus",
+    "driver": null,
+    "type": 5,
+    "link": "https://www.asus.com",
+    "search": "asus pc https://www.asus.com"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa505f-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:36.689Z",
+    "name": "Xiaomi",
+    "short_name": "xiaomi",
+    "driver": null,
+    "type": 4,
+    "link": "https://www.xiaomi.com",
+    "search": "xiaomi android https://www.xiaomi.com"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa50c7-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:36.693Z",
+    "name": "ZTE",
+    "short_name": "zte",
+    "driver": null,
+    "type": 4,
+    "link": "https://www.zte.com.cn",
+    "search": "zte android https://www.zte.com.cn"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa512c-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:20.678Z",
+    "name": "Huawei",
+    "short_name": "huawei",
+    "driver": null,
+    "type": 4,
+    "link": "https://www.huawei.com",
+    "search": "huawei android https://www.huawei.com"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa5192-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:20.681Z",
+    "name": "Gigabyte",
+    "short_name": "gigabyte",
+    "driver": null,
+    "type": 5,
+    "link": "https://www.gigabyte.com",
+    "search": "gigabyte pc https://www.gigabyte.com"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa51f8-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:36.697Z",
+    "name": "Ubiquiti",
+    "short_name": "ubiquiti",
+    "driver": null,
+    "type": 25,
+    "link": "https://www.ui.com",
+    "search": "ubiquiti network https://www.ui.com"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa529c-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:20.684Z",
+    "name": "Qnap",
+    "short_name": "qnap",
+    "driver": null,
+    "type": 17,
+    "link": "https://www.qnap.com",
+    "search": "qnap nas https://www.qnap.com"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa530f-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:20.688Z",
+    "name": "Synology",
+    "short_name": "synology",
+    "driver": null,
+    "type": 17,
+    "link": "https://www.synology.com",
+    "search": "synology nas https://www.synology.com"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa5374-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:20.691Z",
+    "name": "Panasonic",
+    "short_name": "panasonic",
+    "driver": null,
+    "type": 13,
+    "link": "https://www.panasonic.com",
+    "search": "panasonic voip https://www.panasonic.com"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa53d4-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:36.700Z",
+    "name": "ZKTeco",
+    "short_name": "zkteko",
+    "driver": null,
+    "type": 21,
+    "link": "https://www.zkteco.eu",
+    "search": "zkteco zkteko other https://www.zkteco.eu"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa5433-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:20.694Z",
+    "name": "Texecom",
+    "short_name": "texecom",
+    "driver": null,
+    "type": 24,
+    "link": "https://www.texe.com",
+    "search": "texecom alarm https://www.texe.com"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa5491-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:36.704Z",
+    "name": "Yealink",
+    "short_name": "yeahlink",
+    "driver": null,
+    "type": 13,
+    "link": "https://www.yealink.com",
+    "search": "yealink yeahlink voip https://www.yealink.com"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa54f2-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:20.697Z",
+    "name": "Hikvision",
+    "short_name": "hikvision",
+    "driver": null,
+    "type": 10,
+    "link": "https://www.hikvision.com",
+    "search": "hikvision cctv https://www.hikvision.com"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa5551-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:20.700Z",
+    "name": "RaspberryPi",
+    "short_name": "raspberrypi",
+    "driver": null,
+    "type": 23,
+    "link": "https://www.raspberrypi.org",
+    "search": "raspberrypi sbc https://www.raspberrypi.org"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa57b9-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-08-31T21:06:13.259Z",
+    "name": "Mikrotik",
+    "short_name": "mikrotik",
+    "driver": "ansible.module_utils.remote_management.mikrops.mikrotik.Router",
+    "type": 25,
+    "link": "https://mikrotik.com",
+    "search": "mikrotik network https://mikrotik.com"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa58bb-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:20.707Z",
+    "name": "MSI",
+    "short_name": "msi",
+    "driver": null,
+    "type": 5,
+    "link": "https://www.msi.com",
+    "search": "msi pc https://www.msi.com"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa592e-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:20.710Z",
+    "name": "Cisco",
+    "short_name": "cisco",
+    "driver": null,
+    "type": 25,
+    "link": "https://www.cisco.com",
+    "search": "cisco network https://www.cisco.com"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa5994-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:20.713Z",
+    "name": "Grandstream",
+    "short_name": "grandstream",
+    "driver": null,
+    "type": 13,
+    "link": "http://www.grandstream.com",
+    "search": "grandstream voip http://www.grandstream.com"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa59ff-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:20.716Z",
+    "name": "Linux",
+    "short_name": "linux",
+    "driver": null,
+    "type": 18,
+    "link": "https://www.linuxfoundation.org",
+    "search": "linux https://www.linuxfoundation.org"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa5a64-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:20.718Z",
+    "name": "Hewlett Packard",
+    "short_name": "hp",
+    "driver": null,
+    "type": 20,
+    "link": "https://www.hp.com",
+    "search": "hewlett packard hp printer https://www.hp.com"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa5b21-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:20.721Z",
+    "name": "Dell",
+    "short_name": "dell",
+    "driver": null,
+    "type": 5,
+    "link": "https://www.dell.com",
+    "search": "dell pc https://www.dell.com"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa5b96-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:20.724Z",
+    "name": "Intel",
+    "short_name": "intel",
+    "driver": null,
+    "type": 5,
+    "link": "https://www.intel.com",
+    "search": "intel pc https://www.intel.com"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa5bf8-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:20.728Z",
+    "name": "Ricoh",
+    "short_name": "ricoh",
+    "driver": null,
+    "type": 20,
+    "link": "https://www.ricoh.com",
+    "search": "ricoh printer https://www.ricoh.com"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa5c5c-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:20.730Z",
+    "name": "Lenovo",
+    "short_name": "lenovo",
+    "driver": null,
+    "type": 5,
+    "link": "https://www.lenovo.com",
+    "search": "lenovo pc https://www.lenovo.com"
+  }
+}, {
+  "model": "app_device.vendor",
+  "pk": "73aa5cbe-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T22:46:20.733Z",
+    "name": "Motorola",
+    "short_name": "motorola",
+    "driver": null,
+    "type": 4,
+    "link": "https://www.motorola.com",
+    "search": "motorola android https://www.motorola.com"
+  }
+}]
