@@ -1,0 +1,353 @@
+[{
+  "model": "app_job.jobactionparameter",
+  "pk": "06aa2dea-1a2e-4208-89d2-b083cc1549f8",
+  "fields": {
+    "created": "2019-08-22T19:26:53.891Z",
+    "updated": "2019-08-24T22:50:05.267Z",
+    "name": "username",
+    "value": "\"{{ item.username }}\"",
+    "required": false,
+    "parent": "f663ae48-5a17-416b-bd50-3916e72fd2a5"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "12951f40-218f-494a-a4ca-2c91a42fb214",
+  "fields": {
+    "created": "2019-08-22T19:25:00.868Z",
+    "updated": "2019-08-31T08:05:36.799Z",
+    "name": "branch",
+    "value": "",
+    "required": true,
+    "parent": "b2fa41e6-6f2b-4a7e-8810-d4923a09c4ae"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "17dc1c79-0b5f-45ea-8604-2c92f5e4604b",
+  "fields": {
+    "created": "2019-08-22T19:27:55.024Z",
+    "updated": "2019-08-31T08:05:28.427Z",
+    "name": "remote",
+    "value": "",
+    "required": true,
+    "parent": "b5c2550b-1ff6-417c-9f7d-92865bdde94f"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "24bed6ec-3baa-4d04-a65f-83b7a38930b5",
+  "fields": {
+    "created": "2019-08-22T19:27:55.025Z",
+    "updated": "2019-08-31T08:05:28.428Z",
+    "name": "local",
+    "value": "",
+    "required": true,
+    "parent": "b5c2550b-1ff6-417c-9f7d-92865bdde94f"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "2cc8906b-2b67-4461-b36d-a742c94546a3",
+  "fields": {
+    "created": "2019-08-22T19:27:47.843Z",
+    "updated": "2019-08-31T08:05:24.901Z",
+    "name": "local",
+    "value": "",
+    "required": true,
+    "parent": "65299b85-7d7e-4826-9233-a4e2053562eb"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "338e9e4d-87ca-4461-894c-d98927620cbc",
+  "fields": {
+    "created": "2019-08-22T19:26:53.886Z",
+    "updated": "2019-08-31T08:05:21.524Z",
+    "name": "execution_id",
+    "value": "\"{{ execution_id }}\"",
+    "required": true,
+    "parent": "f663ae48-5a17-416b-bd50-3916e72fd2a5"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "36b16575-f42a-46d0-87a0-cf46c414ce6a",
+  "fields": {
+    "created": "2019-08-22T19:25:00.873Z",
+    "updated": "2019-08-22T19:25:00.873Z",
+    "name": "find",
+    "value": null,
+    "required": false,
+    "parent": "b2fa41e6-6f2b-4a7e-8810-d4923a09c4ae"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "3fb54075-444c-47af-9ad6-e4c3a96735a3",
+  "fields": {
+    "created": "2019-08-31T07:31:08.475Z",
+    "updated": "2019-08-31T08:05:39.223Z",
+    "name": "output",
+    "value": "",
+    "required": true,
+    "parent": "991e8bb3-56b2-4a0f-85e6-67fe3fe49338"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "41bd3b34-be13-42d0-8f89-d2f42f8bd1de",
+  "fields": {
+    "created": "2019-08-22T19:26:53.890Z",
+    "updated": "2019-08-24T22:50:05.266Z",
+    "name": "port",
+    "value": "\"{{ item.port }}\"",
+    "required": false,
+    "parent": "f663ae48-5a17-416b-bd50-3916e72fd2a5"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "44580f60-1db6-41e8-92c4-59ae3fb9fc8a",
+  "fields": {
+    "created": "2019-08-22T19:21:44.205Z",
+    "updated": "2019-08-31T08:05:42.357Z",
+    "name": "properties",
+    "value": "",
+    "required": true,
+    "parent": "4213af21-c9a3-4ba5-9071-558b6476053d"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "50c0ae01-ad85-4b84-a2ee-530a2f910354",
+  "fields": {
+    "created": "2019-08-22T19:26:53.894Z",
+    "updated": "2019-08-24T22:50:05.269Z",
+    "name": "pkey_file",
+    "value": "\"{{ item.pkey_file }}\"",
+    "required": false,
+    "parent": "f663ae48-5a17-416b-bd50-3916e72fd2a5"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "5d439181-7773-408d-a47b-daf3a1d9ce8b",
+  "fields": {
+    "created": "2019-08-22T19:02:52.219Z",
+    "updated": "2019-08-31T07:58:52.966Z",
+    "name": "host",
+    "value": "\"{{ inventory_hostname }}\"",
+    "required": true,
+    "parent": "a1666bcc-894f-4132-b6d3-e180883d2098"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "64aefac6-98f0-471a-9dd4-62c40fe6cab0",
+  "fields": {
+    "created": "2019-08-22T19:26:53.893Z",
+    "updated": "2019-08-24T22:50:05.268Z",
+    "name": "password",
+    "value": "\"{{ item.password }}\"",
+    "required": false,
+    "parent": "f663ae48-5a17-416b-bd50-3916e72fd2a5"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "6ba5666b-7eb6-4a73-971b-12d1504627d6",
+  "fields": {
+    "created": "2019-08-22T19:20:49.201Z",
+    "updated": "2019-08-31T08:05:44.420Z",
+    "name": "host",
+    "value": "\"{{ inventory_hostname }}\"",
+    "required": true,
+    "parent": "90fda0e7-db70-4fa3-9ce1-3e860afe2da9"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "6d0713c3-dbbf-41ff-8764-46eccdca01e8",
+  "fields": {
+    "created": "2019-08-31T07:29:11.761Z",
+    "updated": "2019-08-31T08:05:39.222Z",
+    "name": "properties",
+    "value": "",
+    "required": true,
+    "parent": "991e8bb3-56b2-4a0f-85e6-67fe3fe49338"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "6d1c958a-51ed-4d7e-80e9-93f6bb231beb",
+  "fields": {
+    "created": "2019-08-22T19:27:55.022Z",
+    "updated": "2019-08-31T08:05:28.426Z",
+    "name": "host",
+    "value": "\"{{ inventory_hostname }}\"",
+    "required": true,
+    "parent": "b5c2550b-1ff6-417c-9f7d-92865bdde94f"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "71b40cef-3f62-426e-a10d-bb9aa2e90fb1",
+  "fields": {
+    "created": "2019-08-31T07:31:08.473Z",
+    "updated": "2019-08-31T07:31:08.473Z",
+    "name": "find",
+    "value": "",
+    "required": false,
+    "parent": "991e8bb3-56b2-4a0f-85e6-67fe3fe49338"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "736b7a70-389c-4488-afdb-71473e782cad",
+  "fields": {
+    "created": "2019-08-31T07:29:11.758Z",
+    "updated": "2019-08-31T08:05:39.212Z",
+    "name": "host",
+    "value": "\"{{ inventory_hostname }}\"",
+    "required": true,
+    "parent": "991e8bb3-56b2-4a0f-85e6-67fe3fe49338"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "8d869f2b-378a-4d03-b191-25bee8c764ea",
+  "fields": {
+    "created": "2019-08-22T19:27:47.841Z",
+    "updated": "2019-08-31T08:05:24.900Z",
+    "name": "host",
+    "value": "\"{{ inventory_hostname }}\"",
+    "required": true,
+    "parent": "65299b85-7d7e-4826-9233-a4e2053562eb"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "920776d3-c0a8-46b8-b7ec-1ea1de04e33d",
+  "fields": {
+    "created": "2019-08-22T19:25:00.871Z",
+    "updated": "2019-08-22T19:25:00.871Z",
+    "name": "propvals",
+    "value": null,
+    "required": false,
+    "parent": "b2fa41e6-6f2b-4a7e-8810-d4923a09c4ae"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "92ecadd0-50c9-4891-bee0-4c20395a14c7",
+  "fields": {
+    "created": "2019-08-31T07:31:05.234Z",
+    "updated": "2019-08-31T07:31:05.234Z",
+    "name": "find",
+    "value": "",
+    "required": false,
+    "parent": "4213af21-c9a3-4ba5-9071-558b6476053d"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "a3edb963-4de8-4158-91dd-6b89b6853c60",
+  "fields": {
+    "created": "2019-08-22T19:25:00.866Z",
+    "updated": "2019-08-31T08:05:36.798Z",
+    "name": "host",
+    "value": "\"{{ inventory_hostname }}\"",
+    "required": true,
+    "parent": "b2fa41e6-6f2b-4a7e-8810-d4923a09c4ae"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "a495ff35-5deb-4bf0-a74c-a660cf6a6323",
+  "fields": {
+    "created": "2019-08-31T07:29:11.759Z",
+    "updated": "2019-08-31T08:05:39.214Z",
+    "name": "branch",
+    "value": "",
+    "required": true,
+    "parent": "991e8bb3-56b2-4a0f-85e6-67fe3fe49338"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "b2cb1315-f690-46e1-bd29-bd19007ec668",
+  "fields": {
+    "created": "2019-08-22T19:21:44.203Z",
+    "updated": "2019-08-31T08:05:42.356Z",
+    "name": "branch",
+    "value": "",
+    "required": true,
+    "parent": "4213af21-c9a3-4ba5-9071-558b6476053d"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "b7552b17-6779-4ae3-8466-c9c106448185",
+  "fields": {
+    "created": "2019-08-22T19:26:53.896Z",
+    "updated": "2019-08-31T08:05:21.527Z",
+    "name": "credentials_id",
+    "value": "\"{{ item.credentials_id }}\"",
+    "required": true,
+    "parent": "f663ae48-5a17-416b-bd50-3916e72fd2a5"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "bf26de55-1fb3-4d56-ae88-3046fef33f63",
+  "fields": {
+    "created": "2019-08-31T07:32:36.063Z",
+    "updated": "2019-08-31T07:32:36.063Z",
+    "name": "output",
+    "value": "",
+    "required": false,
+    "parent": "90fda0e7-db70-4fa3-9ce1-3e860afe2da9"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "c2a994e8-9b13-4e40-8987-2d12be404510",
+  "fields": {
+    "created": "2019-08-22T19:21:09.037Z",
+    "updated": "2019-08-31T08:05:44.421Z",
+    "name": "commands",
+    "value": "",
+    "required": true,
+    "parent": "90fda0e7-db70-4fa3-9ce1-3e860afe2da9"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "c6c957ed-c0d4-4231-82a3-440ce365d98f",
+  "fields": {
+    "created": "2019-08-22T19:27:47.845Z",
+    "updated": "2019-08-31T08:05:24.902Z",
+    "name": "remote",
+    "value": "",
+    "required": true,
+    "parent": "65299b85-7d7e-4826-9233-a4e2053562eb"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "c6ca5ced-808a-401b-a789-01b2b0aba285",
+  "fields": {
+    "created": "2019-08-22T19:25:00.870Z",
+    "updated": "2019-08-31T08:05:36.800Z",
+    "name": "action",
+    "value": "",
+    "required": true,
+    "parent": "b2fa41e6-6f2b-4a7e-8810-d4923a09c4ae"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "c8c9c9c1-08f6-494e-9750-7d91f969ea80",
+  "fields": {
+    "created": "2019-08-22T19:21:44.202Z",
+    "updated": "2019-08-31T08:05:42.355Z",
+    "name": "host",
+    "value": "\"{{ inventory_hostname }}\"",
+    "required": true,
+    "parent": "4213af21-c9a3-4ba5-9071-558b6476053d"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "dd2fc5fe-734d-4078-8ba5-2f9b33dc987d",
+  "fields": {
+    "created": "2019-08-22T19:21:09.038Z",
+    "updated": "2019-08-31T07:33:03.607Z",
+    "name": "raw",
+    "value": "False",
+    "required": false,
+    "parent": "90fda0e7-db70-4fa3-9ce1-3e860afe2da9"
+  }
+}, {
+  "model": "app_job.jobactionparameter",
+  "pk": "e2fcf370-6f11-4baf-8a3c-8ecddc3a6436",
+  "fields": {
+    "created": "2019-08-22T19:26:53.888Z",
+    "updated": "2019-08-31T08:05:21.526Z",
+    "name": "host",
+    "value": "\"{{ inventory_hostname }}\"",
+    "required": true,
+    "parent": "f663ae48-5a17-416b-bd50-3916e72fd2a5"
+  }
+}]

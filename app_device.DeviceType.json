@@ -1,0 +1,375 @@
+[{
+  "model": "app_device.devicetype",
+  "pk": 1,
+  "fields": {
+    "path": "000B",
+    "depth": 1,
+    "numchild": 3,
+    "name": "Terminal",
+    "created": "2019-06-22T16:46:53.295Z",
+    "updated": "2019-06-22T16:46:53.297Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 2,
+  "fields": {
+    "path": "000B0002",
+    "depth": 2,
+    "numchild": 2,
+    "name": "Mobile Phone",
+    "created": "2019-06-22T16:49:36.548Z",
+    "updated": "2019-06-22T16:49:36.569Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 3,
+  "fields": {
+    "path": "000B00020004",
+    "depth": 3,
+    "numchild": 0,
+    "name": "iPhone",
+    "created": "2019-06-22T16:49:42.106Z",
+    "updated": "2019-06-22T16:49:42.114Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 4,
+  "fields": {
+    "path": "000B00020003",
+    "depth": 3,
+    "numchild": 0,
+    "name": "Android",
+    "created": "2019-06-22T16:49:46.871Z",
+    "updated": "2019-06-22T16:49:46.877Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 5,
+  "fields": {
+    "path": "000B0005",
+    "depth": 2,
+    "numchild": 1,
+    "name": "PC",
+    "created": "2019-06-22T16:49:52.434Z",
+    "updated": "2019-06-22T16:49:52.441Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 6,
+  "fields": {
+    "path": "000B00050002",
+    "depth": 3,
+    "numchild": 0,
+    "name": "Windows",
+    "created": "2019-06-22T16:49:58.447Z",
+    "updated": "2019-06-22T16:49:58.456Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 7,
+  "fields": {
+    "path": "000B0006",
+    "depth": 2,
+    "numchild": 2,
+    "name": "Tablet",
+    "created": "2019-06-22T16:50:04.058Z",
+    "updated": "2019-06-22T16:50:04.065Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 8,
+  "fields": {
+    "path": "000B00060002",
+    "depth": 3,
+    "numchild": 0,
+    "name": "Android",
+    "created": "2019-06-22T16:50:08.639Z",
+    "updated": "2019-06-22T16:50:08.648Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 9,
+  "fields": {
+    "path": "000B00060004",
+    "depth": 3,
+    "numchild": 0,
+    "name": "iPhone",
+    "created": "2019-06-22T16:50:13.572Z",
+    "updated": "2019-06-22T16:50:13.580Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 10,
+  "fields": {
+    "path": "0004",
+    "depth": 1,
+    "numchild": 2,
+    "name": "CCTV",
+    "created": "2019-06-22T16:50:19.216Z",
+    "updated": "2019-06-22T17:02:21.180Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 11,
+  "fields": {
+    "path": "00040002",
+    "depth": 2,
+    "numchild": 0,
+    "name": "Camera",
+    "created": "2019-06-22T16:50:27.435Z",
+    "updated": "2019-06-22T16:50:27.444Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 12,
+  "fields": {
+    "path": "00040004",
+    "depth": 2,
+    "numchild": 0,
+    "name": "DVR",
+    "created": "2019-06-22T16:50:32.621Z",
+    "updated": "2019-06-22T16:50:32.628Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 13,
+  "fields": {
+    "path": "000C",
+    "depth": 1,
+    "numchild": 2,
+    "name": "VoIP",
+    "created": "2019-06-22T16:50:35.499Z",
+    "updated": "2019-06-22T16:50:35.501Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 14,
+  "fields": {
+    "path": "000C0002",
+    "depth": 2,
+    "numchild": 0,
+    "name": "PBX",
+    "created": "2019-06-22T16:50:41.742Z",
+    "updated": "2019-06-22T16:50:41.749Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 15,
+  "fields": {
+    "path": "000C0004",
+    "depth": 2,
+    "numchild": 0,
+    "name": "Telephone",
+    "created": "2019-06-22T16:50:46.824Z",
+    "updated": "2019-06-22T16:50:46.833Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 16,
+  "fields": {
+    "path": "000A",
+    "depth": 1,
+    "numchild": 3,
+    "name": "Server",
+    "created": "2019-06-22T16:50:50.717Z",
+    "updated": "2019-06-22T16:50:50.719Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 17,
+  "fields": {
+    "path": "000A0004",
+    "depth": 2,
+    "numchild": 0,
+    "name": "NAS",
+    "created": "2019-06-22T16:50:58.159Z",
+    "updated": "2019-06-22T16:50:58.169Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 18,
+  "fields": {
+    "path": "000A0003",
+    "depth": 2,
+    "numchild": 0,
+    "name": "Linux",
+    "created": "2019-06-22T16:51:02.559Z",
+    "updated": "2019-06-22T16:51:02.574Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 19,
+  "fields": {
+    "path": "000A0006",
+    "depth": 2,
+    "numchild": 0,
+    "name": "Windows",
+    "created": "2019-06-22T16:51:08.820Z",
+    "updated": "2019-06-22T16:51:08.827Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 20,
+  "fields": {
+    "path": "0009",
+    "depth": 1,
+    "numchild": 0,
+    "name": "Printer",
+    "created": "2019-06-22T16:51:12.794Z",
+    "updated": "2019-06-22T16:51:12.796Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 21,
+  "fields": {
+    "path": "0008",
+    "depth": 1,
+    "numchild": 0,
+    "name": "Other",
+    "created": "2019-06-22T16:51:17.285Z",
+    "updated": "2019-08-20T19:25:37.586Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 22,
+  "fields": {
+    "path": "0005",
+    "depth": 1,
+    "numchild": 2,
+    "name": "IoT",
+    "created": "2019-06-22T16:51:22.450Z",
+    "updated": "2019-06-22T16:51:22.452Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 23,
+  "fields": {
+    "path": "00050005",
+    "depth": 2,
+    "numchild": 0,
+    "name": "SBC",
+    "created": "2019-06-22T16:51:28.711Z",
+    "updated": "2019-06-22T16:51:28.719Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 24,
+  "fields": {
+    "path": "00050003",
+    "depth": 2,
+    "numchild": 0,
+    "name": "Alarm",
+    "created": "2019-06-22T16:51:33.764Z",
+    "updated": "2019-06-22T16:51:33.779Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 25,
+  "fields": {
+    "path": "0006",
+    "depth": 1,
+    "numchild": 2,
+    "name": "Network",
+    "created": "2019-06-22T16:51:37.294Z",
+    "updated": "2019-06-22T16:51:37.295Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 26,
+  "fields": {
+    "path": "00060007",
+    "depth": 2,
+    "numchild": 0,
+    "name": "Switch",
+    "created": "2019-06-22T16:51:47.217Z",
+    "updated": "2019-06-22T16:51:47.225Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 27,
+  "fields": {
+    "path": "00060006",
+    "depth": 2,
+    "numchild": 4,
+    "name": "Router",
+    "created": "2019-06-22T16:51:52.306Z",
+    "updated": "2019-06-23T20:20:48.198Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 28,
+  "fields": {
+    "path": "000600060004",
+    "depth": 3,
+    "numchild": 0,
+    "name": "DSL",
+    "created": "2019-06-22T16:51:58.869Z",
+    "updated": "2019-06-23T20:15:42.042Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 29,
+  "fields": {
+    "path": "000600060005",
+    "depth": 3,
+    "numchild": 0,
+    "name": "Generic",
+    "created": "2019-06-22T16:52:04.824Z",
+    "updated": "2019-06-22T16:52:04.832Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 30,
+  "fields": {
+    "path": "000600060008",
+    "depth": 3,
+    "numchild": 3,
+    "name": "WiFi",
+    "created": "2019-06-22T16:52:10.206Z",
+    "updated": "2019-06-22T16:52:10.214Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 31,
+  "fields": {
+    "path": "0006000600080007",
+    "depth": 4,
+    "numchild": 0,
+    "name": "P2P",
+    "created": "2019-06-22T16:52:15.307Z",
+    "updated": "2019-06-22T16:52:15.318Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 32,
+  "fields": {
+    "path": "0006000600080006",
+    "depth": 4,
+    "numchild": 0,
+    "name": "Client",
+    "created": "2019-06-22T16:52:20.836Z",
+    "updated": "2019-06-22T16:52:20.843Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 33,
+  "fields": {
+    "path": "0006000600080005",
+    "depth": 4,
+    "numchild": 0,
+    "name": "Access Point",
+    "created": "2019-06-22T16:52:29.802Z",
+    "updated": "2019-08-20T19:23:38.349Z"
+  }
+}, {
+  "model": "app_device.devicetype",
+  "pk": 34,
+  "fields": {
+    "path": "000600060007",
+    "depth": 3,
+    "numchild": 0,
+    "name": "Virtual Router",
+    "created": "2019-06-29T14:23:54.220Z",
+    "updated": "2019-06-29T14:23:54.230Z"
+  }
+}]

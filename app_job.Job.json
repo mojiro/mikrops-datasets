@@ -1,0 +1,12 @@
+[{
+  "model": "app_job.job",
+  "pk": "e988bf74-5e14-42ae-9451-b3d81846a6cf",
+  "fields": {
+    "created": "2019-08-24T19:22:05.043Z",
+    "updated": "2019-08-24T19:22:05.043Z",
+    "table_action_id": 1001,
+    "name": "NetScan",
+    "system": true,
+    "search": "netscan"
+  }
+}]

@@ -1,0 +1,89 @@
+[{
+  "model": "app_job.jobtaskparameter",
+  "pk": "1d05ebd5-afc3-4cf7-9bfb-5977500e9b28",
+  "fields": {
+    "created": "2019-08-24T22:50:39.393Z",
+    "updated": "2019-08-24T22:50:39.393Z",
+    "name": "port",
+    "value": "\"{{ item.port }}\"",
+    "required": false,
+    "parent": "712d5cfb-9f68-4856-914b-2e64640573ec"
+  }
+}, {
+  "model": "app_job.jobtaskparameter",
+  "pk": "26d8e8b0-a1f9-4124-adf8-c4fb88933de7",
+  "fields": {
+    "created": "2019-08-24T22:50:39.397Z",
+    "updated": "2019-08-24T22:50:39.397Z",
+    "name": "pkey_file",
+    "value": "\"{{ item.pkey_file }}\"",
+    "required": false,
+    "parent": "712d5cfb-9f68-4856-914b-2e64640573ec"
+  }
+}, {
+  "model": "app_job.jobtaskparameter",
+  "pk": "4c647f62-3fa8-4243-8f08-0fe21cc920ec",
+  "fields": {
+    "created": "2019-08-24T22:50:39.394Z",
+    "updated": "2019-08-24T22:50:39.394Z",
+    "name": "username",
+    "value": "\"{{ item.username }}\"",
+    "required": false,
+    "parent": "712d5cfb-9f68-4856-914b-2e64640573ec"
+  }
+}, {
+  "model": "app_job.jobtaskparameter",
+  "pk": "5825b015-e31d-4322-9974-0b33ce2bc683",
+  "fields": {
+    "created": "2019-08-24T22:25:30.772Z",
+    "updated": "2019-08-31T08:04:35.055Z",
+    "name": "host",
+    "value": "\"{{ inventory_hostname }}\"",
+    "required": true,
+    "parent": "a2f0a616-85aa-415f-bc3b-9151e1cf7239"
+  }
+}, {
+  "model": "app_job.jobtaskparameter",
+  "pk": "6a6d1bdd-fef1-4acb-897d-2b938888bc2c",
+  "fields": {
+    "created": "2019-08-24T22:50:39.395Z",
+    "updated": "2019-08-24T22:50:39.395Z",
+    "name": "password",
+    "value": "\"{{ item.password }}\"",
+    "required": false,
+    "parent": "712d5cfb-9f68-4856-914b-2e64640573ec"
+  }
+}, {
+  "model": "app_job.jobtaskparameter",
+  "pk": "84cf942f-a457-4a33-8083-56f9d09673af",
+  "fields": {
+    "created": "2019-08-24T22:50:39.398Z",
+    "updated": "2019-08-31T08:05:15.215Z",
+    "name": "credentials_id",
+    "value": "\"{{ item.credentials_id }}\"",
+    "required": true,
+    "parent": "712d5cfb-9f68-4856-914b-2e64640573ec"
+  }
+}, {
+  "model": "app_job.jobtaskparameter",
+  "pk": "bcb91bfa-cd1d-49af-8f9d-a06ca2b98e9e",
+  "fields": {
+    "created": "2019-08-24T22:50:39.391Z",
+    "updated": "2019-08-31T08:05:15.215Z",
+    "name": "host",
+    "value": "\"{{ inventory_hostname }}\"",
+    "required": true,
+    "parent": "712d5cfb-9f68-4856-914b-2e64640573ec"
+  }
+}, {
+  "model": "app_job.jobtaskparameter",
+  "pk": "bd1e9d1a-6e13-4911-a66c-b651d6337d3b",
+  "fields": {
+    "created": "2019-08-24T22:50:39.390Z",
+    "updated": "2019-08-31T08:05:15.214Z",
+    "name": "execution_id",
+    "value": "\"{{ execution_id }}\"",
+    "required": true,
+    "parent": "712d5cfb-9f68-4856-914b-2e64640573ec"
+  }
+}]

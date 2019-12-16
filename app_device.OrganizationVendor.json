@@ -1,0 +1,577 @@
+[{
+  "model": "app_device.organizationvendor",
+  "pk": "6db6a969-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:02:04.111Z",
+    "organization": "Ubiquiti",
+    "vendor": "73aa51f8-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6b963-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:00:11.119Z",
+    "organization": "CiscoEth",
+    "vendor": "73aa592e-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6bad8-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:00:11.129Z",
+    "organization": "CiscoMer",
+    "vendor": "73aa592e-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6bb8d-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:00:11.135Z",
+    "organization": "CiscoRou",
+    "vendor": "73aa592e-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6bc3a-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:00:11.139Z",
+    "organization": "CiscoSpv",
+    "vendor": "73aa592e-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6bce3-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:00:11.143Z",
+    "organization": "CiscoSys",
+    "vendor": "73aa592e-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6bd50-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:01:55.859Z",
+    "organization": "HewlettP",
+    "vendor": "73aa5a64-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6bdf1-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:01:55.864Z",
+    "organization": "HP",
+    "vendor": "73aa5a64-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6be85-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:01:55.869Z",
+    "organization": "Hp-UxE90",
+    "vendor": "73aa5a64-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6bef2-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:01:55.873Z",
+    "organization": "HpIntell",
+    "vendor": "73aa5a64-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6bf56-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:01:55.877Z",
+    "organization": "Procurve",
+    "vendor": "73aa5a64-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6bfe2-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:00:11.146Z",
+    "organization": "Aironet",
+    "vendor": "73aa592e-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6c077-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:00:11.150Z",
+    "organization": "Dell",
+    "vendor": "73aa5b21-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6c0e3-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:00:11.154Z",
+    "organization": "DellEmc",
+    "vendor": "73aa5b21-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6c144-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:01:55.880Z",
+    "organization": "Intel",
+    "vendor": "73aa5b96-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6c1a3-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:01:55.884Z",
+    "organization": "Intel\u00e2\u20ac\u201cGe",
+    "vendor": "73aa5b96-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6c201-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:01:55.887Z",
+    "organization": "IntelCor",
+    "vendor": "73aa5b96-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6c25b-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:02:04.116Z",
+    "organization": "Ricoh",
+    "vendor": "73aa5bf8-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6c2b9-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:02:04.119Z",
+    "organization": "TohokuRi",
+    "vendor": "73aa5bf8-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6c314-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:01:55.891Z",
+    "organization": "Lenovo",
+    "vendor": "73aa5c5c-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6c394-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:01:55.895Z",
+    "organization": "LenovoBe",
+    "vendor": "73aa5c5c-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6c4d0-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:01:55.898Z",
+    "organization": "LenovoDa",
+    "vendor": "73aa5c5c-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6c57e-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:00:11.161Z",
+    "organization": "Cisco",
+    "vendor": "73aa592e-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6c5e2-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:01:55.901Z",
+    "organization": "Lenovoem",
+    "vendor": "73aa5c5c-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6c63e-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:01:55.904Z",
+    "organization": "LenovoMo",
+    "vendor": "73aa5c5c-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6c69c-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:01:55.907Z",
+    "organization": "Notebook",
+    "vendor": "73aa5c5c-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6c6fc-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:01:55.909Z",
+    "organization": "Motorola",
+    "vendor": "73aa5cbe-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6c7aa-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:02:04.123Z",
+    "organization": "Wireless",
+    "vendor": "73aa5cbe-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6c817-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:00:11.165Z",
+    "organization": "Apple",
+    "vendor": "73aa4a7a-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6c875-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:00:11.170Z",
+    "organization": "AppleA/U",
+    "vendor": "73aa4a7a-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6c8cf-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:00:11.174Z",
+    "organization": "ApplePci",
+    "vendor": "73aa4a7a-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6c92d-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:02:04.125Z",
+    "organization": "SamsungE",
+    "vendor": "73aa4c06-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6c985-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:02:04.128Z",
+    "organization": "SamsungH",
+    "vendor": "73aa4c06-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6c9cf-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:00:11.178Z",
+    "organization": "Cisco-Li",
+    "vendor": "73aa592e-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6ca0e-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:02:04.132Z",
+    "organization": "SamsungS",
+    "vendor": "73aa4c06-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6ca4c-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:02:04.136Z",
+    "organization": "SamsungT",
+    "vendor": "73aa4c06-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6ca8e-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:00:11.182Z",
+    "organization": "Abit",
+    "vendor": "73aa4cec-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6cad0-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:00:11.187Z",
+    "organization": "AbitComp",
+    "vendor": "73aa4cec-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6cb10-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:01:55.912Z",
+    "organization": "Elitegro",
+    "vendor": "73aa4dc6-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6cb50-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:00:11.191Z",
+    "organization": "AsrockIn",
+    "vendor": "73aa4f17-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6cb8d-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:00:11.194Z",
+    "organization": "AsusNetw",
+    "vendor": "73aa4fe8-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6cbcc-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:00:11.198Z",
+    "organization": "AsustekC",
+    "vendor": "73aa4fe8-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6cc26-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:00:11.202Z",
+    "organization": "AsustekI",
+    "vendor": "73aa4fe8-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6cd8d-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:00:11.206Z",
+    "organization": "BeijingX",
+    "vendor": "73aa505f-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6cdff-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:00:11.209Z",
+    "organization": "Cisco100",
+    "vendor": "73aa592e-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6ce42-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:02:04.138Z",
+    "organization": "XiaomiCo",
+    "vendor": "73aa505f-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6ce84-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:02:04.142Z",
+    "organization": "XiaomiEl",
+    "vendor": "73aa505f-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6cec3-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:02:04.146Z",
+    "organization": "Zte",
+    "vendor": "73aa50c7-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6cf01-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:01:55.914Z",
+    "organization": "HuaweiSy",
+    "vendor": "73aa512c-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6cf3e-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:01:55.917Z",
+    "organization": "HuaweiTe",
+    "vendor": "73aa512c-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6cf7b-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:01:55.921Z",
+    "organization": "Qnap",
+    "vendor": "73aa529c-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6cfba-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:01:55.924Z",
+    "organization": "Panasoni",
+    "vendor": "73aa5374-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6cffb-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:02:04.149Z",
+    "organization": "XiamenYe",
+    "vendor": "73aa5491-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6d039-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:02:04.153Z",
+    "organization": "YealinkX",
+    "vendor": "73aa5491-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6d07c-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:01:55.926Z",
+    "organization": "Hangzhou",
+    "vendor": "73aa54f2-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6d0be-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:00:11.213Z",
+    "organization": "Cisco251",
+    "vendor": "73aa592e-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6d0fb-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:01:55.929Z",
+    "organization": "Raspberr",
+    "vendor": "73aa5551-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6d138-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:02:04.156Z",
+    "organization": "Routerbo",
+    "vendor": "73aa57b9-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6d1d0-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:01:55.932Z",
+    "organization": "Msi",
+    "vendor": "73aa58bb-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6d21e-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:01:55.935Z",
+    "organization": "MsiTechn",
+    "vendor": "73aa58bb-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6d25f-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:01:55.938Z",
+    "organization": "Grandstr",
+    "vendor": "73aa5994-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6d303-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:00:11.217Z",
+    "organization": "Cisco362",
+    "vendor": "73aa592e-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6d3e9-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:00:11.221Z",
+    "organization": "Cisco550",
+    "vendor": "73aa592e-a98d-11e9-b9cc-560001924031"
+  }
+}, {
+  "model": "app_device.organizationvendor",
+  "pk": "6db6d7d2-a98d-11e9-b9cc-560001924031",
+  "fields": {
+    "created": "2019-06-23T18:00:00Z",
+    "updated": "2019-07-24T23:00:11.226Z",
+    "organization": "CiscoCat",
+    "vendor": "73aa592e-a98d-11e9-b9cc-560001924031"
+  }
+}]
